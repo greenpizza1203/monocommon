@@ -1,0 +1,6 @@
+{
+  "name": "monocommon",
+  "version": "1.0.0",
+  "license": "ISC",
+  "main": "src/index.ts"
+}
