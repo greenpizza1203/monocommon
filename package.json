@@ -2,5 +2,9 @@
   "name": "monocommon",
   "version": "1.0.0",
   "license": "ISC",
-  "main": "src/index.ts"
+  "main": "src/index.ts",
+  "dependencies": {
+    "colyseus": "^0.14.7",
+    "colyseus.js": "^0.14.1"
+  }
 }
